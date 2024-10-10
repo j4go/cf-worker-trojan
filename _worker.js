@@ -3,6 +3,7 @@ import { connect } from "cloudflare:sockets";
  
 let Pswd = "975e0863-0688-4dec-a76f-ef643c5814f2";
 const proxyIPs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'ts.hpc.tw'];
+
 let cn_hostnames = [''];
 let CDNIP = 'www.visa.com.sg'
 // http_ip
