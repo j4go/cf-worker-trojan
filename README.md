@@ -1,9 +1,2 @@
-# 代理工具
-
-这个项目是一个基于 Cloudflare Workers 的 代理工具。
-
-## 部署方式
-
- **Pages** 部署：`Fork` 后 `连接GitHub` 一键部署即可
-
- pages实际上部署报错，改成worker方式，直接全部复制即可。
+cf pages部署时报错，改成worker方式，直接全部复制即可，上传同名_worker.js文件；
+Pswd参数在cf里面配置。
