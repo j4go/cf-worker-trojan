@@ -1,4 +1,4 @@
-上传同名_worker.js文件；
+上传`_worker.js`文件；
 
 Pswd参数在cf里面配置。
 
